@@ -154,5 +154,5 @@ cython_debug/
  
 
 # Project specific:
-data/*
+# data/*
 !data/README-DATA.md
