@@ -1,12 +1,11 @@
-name: template
+name: pysolar-testing
 channels:
   - conda-forge
   - defaults
 dependencies:
+  - pysolar
   - matplotlib=3.5.3
   - numpy=1.23.2
   - pandas=1.4.4
-  - pint=0.19.2
   - python=3.9
-  - xarray=2022.6.0
   - jupyterlab=3.4.57
