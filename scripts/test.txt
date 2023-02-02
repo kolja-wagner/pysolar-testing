@@ -1,0 +1,29 @@
+                      TOPOCENTRIC CONFIGURATION                      
+     
+                Astronomical Applications Department                 
+                       U. S. Naval Observatory                       
+                      Washington, DC 20392-5420                      
+     
+                              Hannover                               
+          Location:  E  9°42'00.0", N52°18'00.0",    50m           
+             (Longitude referred to Greenwich meridian)              
+
+
+     
+                       2020 Apr 01 10:00:00.0  (UT1) 
+     
+Object     R.A.     Dec.    Dist.   Z.D. Az.  Elong.   Diam.     Mag.
+     
+           h   m     °  '   A.U.      °    °      °    '   "
+Sun        0 44.7  + 4 48   0.999    51  152   ----   32 00.5    ----
+Mercury   23 11.2  - 7 36   1.025    60  182   W 26    0 06.6     0.0
+Venus      3 39.0  +23 13   0.651    57   95   E 46    0 25.6    -4.6
+Mars      20 14.2  -20 52   1.457    84  223   W 71    0 06.4     0.8
+Jupiter   19 45.5  -21 18   5.314    87  229   W 78    0 37.1    -2.1
+Saturn    20 11.7  -20 04  10.298    83  224   W 71    0 16.1     0.7
+Uranus     2 12.2  +12 49  20.723    52  123   E 23    0 03.4     5.9
+Neptune   23 22.2  - 5 11  30.850    57  179   W 23    0 02.2     8.0
+Pluto     19 47.7  -21 57  34.216    87  228   W 77    0 00.1    14.3
+     
+           h   m     °  '    km       °    °      °    '   "    Illum.
+Moon       6 54.7  +22 56  383581    85   58   E 90   31 08.3     51%
